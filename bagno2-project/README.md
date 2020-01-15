@@ -1,4 +1,4 @@
-My project on its way!
+My second project on its way!
 
-Change whatever i want...
-Changes made on MASTER branch
+Change whatever i want
+I want to change a line of code
